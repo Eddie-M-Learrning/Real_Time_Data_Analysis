@@ -1,0 +1,11 @@
+In this tutorial 
+we are going to analyse the data of the company 
+and going to answer the real time questions asked by the company 
+
+We need to concat the diffrent data file into single file 
+after that we are going to answer the following answers
+1. Best month for the sales
+2.Best city for the sales
+3.Best product_combo in sales
+4.Best induvidual Product in sales
+5.TIming for advertising the products 
